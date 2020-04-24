@@ -1,0 +1,69 @@
+body {
+    background-color: #121212;
+    font-family: 'Raleway', sans-serif;
+    color: #ffffff;
+}
+
+.nav-link:hover {
+    color: #ff8c00 !important;
+}
+
+#home {
+    height: 100vh;
+
+}
+
+#about {
+    height: 100vh;
+    background-color: #16151f;
+}
+
+#education {
+    height: 100vh;
+    background-color: #191919;
+}
+
+#skills {
+    height: 100vh;
+    background-color: #262626;
+}
+
+#contact {
+    height: 100vh;
+    background-color: black;
+}
+
+@font-face {
+    font-family: 'Axiforma ExtraBold';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Axiforma ExtraBold'), url('axiforma.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'Axiforma SemiBold';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Axiforma SemiBold'), url('axiformasemi.woff') format('woff');
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: 'Axiforma ExtraBold', sans-serif;
+    color: #fff;
+}
+
+.navbar-brand {
+    font-family: 'Axiforma SemiBold', sans-serif;
+}
+.akk {
+    width: 298px !important;
+    height: 300px !important;
+}
+.e {
+    color: #blue;
+}
